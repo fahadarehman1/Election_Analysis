@@ -51,7 +51,7 @@ Using the Python code, we can answer the following questions and audit the answe
 
   - ###### Winner: Diana DeGette , Vote Count: 272,892 , Percentage: 73.8%
 
-![Output from the code as an supporting document](C:\Users\Fahad.Rehman\Desktop\UW DataBootcamp\Election_Analysis\Resources\Elections_Screen_Snippet.PNG)
+![Output from the code as an supporting document](/Resources/Elections_Screen_Snippet.PNG)
 
 
 
